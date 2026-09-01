@@ -154,7 +154,7 @@ nav a:hover{color:var(--gold)}
 .footer-socials{justify-content:flex-end;margin-top:0}
 .footer-bottom{border-top:1px solid #1d1d1d;min-height:60px;display:flex;align-items:center;justify-content:space-between;color:#666;font-size:12px;gap:15px}
 
-.floating-whatsapp{position:fixed;right:22px;bottom:22px;z-index:999;background:#20c763;color:#fff;padding:12px 17px;border-radius:30px;display:flex;align-items:center;gap:9px;font-weight:800;box-shadow:0 10px 30px rgba(0,0,0,.4)}
+.floating-whatsapp{position:fixed;left:22px;bottom:22px;z-index:999;background:#20c763;color:#fff;padding:12px 17px;border-radius:30px;display:flex;align-items:center;gap:9px;font-weight:800;box-shadow:0 10px 30px rgba(0,0,0,.4)}
 .floating-whatsapp i{font-size:23px}
 .reveal{opacity:0;transform:translateY(25px);transition:.65s ease}
 .reveal.visible{opacity:1;transform:none}
